@@ -1,8 +1,8 @@
 
 alert("Boas vindas ao nosso Site!");
 
-let nome = 'Lua' 
-let idade = 25
+//let nome = 'Lua' 
+//let idade = 25
 nomeUsuario = prompt ("Digite seu nome: ");
 suaIdade = prompt ("Digite sua idade: ");
 
